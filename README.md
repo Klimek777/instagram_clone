@@ -1,4 +1,4 @@
-# Genecar
+# Instagram Clone
 > Flutter app which was created for learning purposes. I tried to clone Instagram app and its' basic functionality. 
 
 ## Table of Contents
