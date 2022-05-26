@@ -1,16 +1,55 @@
-# instagram_clone
+# Genecar
+> Flutter app which was created for learning purposes. I tried to clone Instagram app and its' basic functionality. 
 
-A new Flutter project.
+## Table of Contents
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Setup](#setup)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Contact](#contact)
+<!-- * [License](#license) -->
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Technologies Used
+- Flutter
+- Firebase
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Features
+List the ready features here:
+- Authentication procces
+- Creating and editing own profile
+
+
+
+
+## Setup
+It's mobile app created for iOS and Android users.
+
+
+
+
+## Project Status
+Project is: _in progress_.
+
+
+## Room for Improvement
+
+Room for improvement:
+- further development to finish this app
+To do:
+- Crate feed 
+
+
+
+## Contact
+Feel free to contact me! 
+
+
+<!-- ## License -->
+<!-- ALL RIGHTS RESERVED-->
+
+
